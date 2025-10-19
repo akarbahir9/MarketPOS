@@ -1,0 +1,71 @@
+export const t = {
+  // General
+  posSystem: 'سیستەمی فرۆشتن',
+  dashboard: 'داشبۆرد',
+  invoices: 'پسوڵەکان',
+  products: 'کاڵاکان',
+  customers: 'کڕیارەکان',
+  suppliers: 'دابینکەرەکان',
+  expenses: 'خەرجییەکان',
+  loans: 'قەرزەکان',
+  reports: 'ڕاپۆرتەکان',
+  settings: 'ڕێکخستنەکان',
+  logout: 'چوونەدەرەوە',
+  iqd: 'د.ع',
+  actions: 'کردارەکان',
+  edit: 'دەستکاری',
+  delete: 'سڕینەوە',
+  save: 'پاشەکەوت',
+  cancel: 'پاشگەزبوونەوە',
+  loading: 'چاوەڕوانی...',
+  
+  // Login & Sign Up
+  login: 'چوونەژوورەوە',
+  signup: 'خۆتۆمارکردن',
+  username: 'ناوی بەکارهێنەر',
+  email: 'ئیمەیڵ',
+  password: 'وشەی نهێنی',
+  confirmPassword: 'دووبارەکردنەوەی وشەی نهێنی',
+  loginWelcome: 'بەخێربێیتەوە',
+  loginSubtext: 'بچۆ ژوورەوە بۆ بەڕێوەبردنی فرۆشگاکەت',
+  loginFailed: 'ناوی بەکارهێنەر یان وشەی نهێنی هەڵەیە',
+  loginSuccess: 'بە سەرکەوتوویی چوویتە ژوورەوە',
+  signupWelcome: 'هەژمارێکی نوێ دروست بکە',
+  signupSubtext: 'زانیارییەکانت پڕبکەرەوە بۆ دەستپێکردن',
+  signupSuccess: 'هەژمارەکەت بە سەرکەوتوویی دروستکرا! تکایە سەیری ئیمەیڵەکەت بکە بۆ چالاککردن.',
+  passwordsDoNotMatch: 'وشەی نهێنیەکان وەک یەک نین',
+  usernameExists: 'ئەم ناوەی بەکارهێنەر پێشتر بەکارهاتووە',
+  alreadyHaveAccount: 'پێشتر هەژمارت هەیە؟',
+  dontHaveAccount: 'هەژمارت نییە؟',
+
+  // Dashboard
+  totalSales: 'کۆی فرۆش',
+  totalExpenses: 'کۆی خەرجی',
+  totalCustomers: 'کۆی کڕیارەکان',
+  totalProducts: 'کۆی کاڵاکان',
+  recentInvoices: 'دوایین پسوڵەکان',
+  recentExpenses: 'دوایین خەرجییەکان',
+  viewAll: 'بینینی هەموو',
+
+  // Products
+  addProduct: 'زیادکردنی کاڵا',
+  editProduct: 'دەستکاریکردنی کاڵا',
+  deleteProduct: 'سڕینەوەی کاڵا',
+  deleteProductConfirmation: 'دڵنیایت لە سڕینەوەی ئەم کاڵایە؟',
+  productName: 'ناوی کاڵا',
+  productBarcode: 'بارکۆد',
+  productBuyPrice: 'نرخی کڕین',
+  productSellPrice: 'نرخی فرۆشتن',
+  productStock: 'کۆگا',
+  productCreatedSuccess: 'کاڵاکە بە سەرکەوتوویی زیادکرا',
+  productUpdatedSuccess: 'کاڵاکە بە سەرکەوتوویی نوێکرایەوە',
+  productDeletedSuccess: 'کاڵاکە بە سەرکەوتوویی سڕایەوە',
+  
+  // Placeholders
+  pageUnderDevelopment: 'ئەم پەڕەیە لەژێر دروستکردندایە',
+  noProductsFound: 'هیچ کاڵایەک نەدۆزرایەوە. یەکەم کاڵای خۆت زیاد بکە!',
+
+  // Validation
+  requiredField: 'ئەم خانەیە پێویستە',
+  invalidNumber: 'تکایە ژمارەیەکی دروست بنووسە',
+};
